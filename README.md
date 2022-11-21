@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Odi-cs
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Django
+- 🌱 I’m Backend Django Developer.
 
 <!---
 Odi-cs/Odi-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
